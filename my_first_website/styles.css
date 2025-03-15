@@ -1,22 +1,58 @@
 * {
-    font-family:'Sour Gummy';
-    color:gold
-    margin: 0;
-    padding: 0;
-    border: 0;
+  font-family:'Sour Gummy';
+  color:;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 header {
-    background-color:coral
-    padding: 5px;
+  background-color:#FFE1A8;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
 }
-
 .title {
-    font-size:2rem;
+  font-size:2rem;
+  color:#A0522D
 }
 
 a {
-    text-decoration:none;
-    color:cornsilk
-    text-shadow: 5px 5px 5px; rgb(255,248,220)
+text-decoration: none;
+color:#A0522D;
+text-shadow: 2px 2px 5px; rgb(255,248,220)
+}
+
+hr {
+border: 2px solid ;
+margin: 2px;
+}
+
+main {
+  height: 1000px;
+}
+
+.menu {
+background-color:#80461B;
+margin: 10px;
+padding: 7px;
+border-radius: 20px;
+}
+
+.menu * {
+color:#FFFDD0;
+}
+
+body {
+background-color:#98623C;
+}
+
+p {
+color: #FFFDD0;
+}
+span {
+color:#FFFDD0
 }

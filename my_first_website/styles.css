@@ -1,0 +1,22 @@
+* {
+    font-family:'Sour Gummy';
+    color:gold
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header {
+    background-color:coral
+    padding: 5px;
+}
+
+.title {
+    font-size:2rem;
+}
+
+a {
+    text-decoration:none;
+    color:cornsilk
+    text-shadow: 5px 5px 5px; rgb(255,248,220)
+}
